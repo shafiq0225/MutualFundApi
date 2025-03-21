@@ -63,8 +63,15 @@ namespace Nav.Application.Services
                 mfList.Add(mf);
             }
             var mutualFundTitle = mfList.Where(x => x.SchemeId == null && x.Name.Contains("Mutual Fund")).ToList();
+            var db = new string[] // get it from sqllite
+            {
+                "Aditya Birla Sun Life Mutual Fund",
+                "Canara Robeco Mutual Fund",
+                "Franklin Templeton Mutual Fund",
+                "HDFC Mutual Fund"
+            };
             var excludeDuplicateTitles = mutualFundTitle.Select(i => new { i.Name })
-            .Distinct().Select(x => new Fund { Name = x.Name }).OrderBy(x => x.Name).ToList();
+            .Distinct().Select(x => new Fund { Name = x.Name }).OrderBy(x => x.Name).Where(x => db.Contains(x.Name)).ToList();
 
             var mutualFunds = new List<Fund>();
             foreach (var mfTitle in excludeDuplicateTitles)
@@ -96,6 +103,10 @@ namespace Nav.Application.Services
             var schemeRateByDate = new List<SchemeHistory>();
 
             var navs = await _context.Funds.Where(x => x.FundVisible && x.FundId == fundId && x.SchemeVisible && x.SchemeId == schemeId && x.Date >= startDate && x.Date <= endDate).GroupBy(x => x.SchemeId).ToListAsync();
+            if (navs.Count == 0)
+            {
+                return individalNav;
+            }
             foreach (var nav in navs)
             {
                 var fundFiltered = nav.Where(x => x.SchemeId == schemeId);
