@@ -1,0 +1,32 @@
+Scheme Code;ISIN Div Payout/ ISIN Growth;ISIN Div Reinvestment;Scheme Name;Net Asset Value;11-Nov-2024 
+Open Ended Schemes(Debt Scheme - Banking and PSU Fund) 
+Aditya Birla Sun Life Mutual Fund 
+119551;INF209KA12Z1;INF209KA13Z9;Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW;108.0457;11-Nov-2024
+119552;INF209K01YM2;-;Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - MONTHLY IDCW;115.7608;11-Nov-2024
+119553;INF209K01YO8;-;Aditya Birla Sun Life Banking & PSU Debt Fund  - Direct - Quarterly IDCW;103.6015;11-Nov-2024
+108272;INF209K01LX6;INF209KA11Z3;Aditya Birla Sun Life Banking & PSU Debt Fund  - REGULAR - IDCW;152.1041;11-Nov-2024
+110282;INF209K01LU2;-;Aditya Birla Sun Life Banking & PSU Debt Fund  - REGULAR - MONTHLY IDCW;111.8769;11-Nov-2024
+108274;INF209K01LN7;-;Aditya Birla Sun Life Banking & PSU Debt Fund  - REGULAR - Quarterly IDCW;101.9254;11-Nov-2024
+110490;INF209K01LR8;-;Aditya Birla Sun Life Banking & PSU Debt Fund  - retail - monthly IDCW;111.6568;11-Nov-2024
+106157;INF209K01LS6;-;Aditya Birla Sun Life Banking & PSU Debt Fund  - retail - quarterly IDCW;103.0044;11-Nov-2024
+108273;INF209K01LV0;-;Aditya Birla Sun Life Banking & PSU Debt Fund - Regular Plan-Growth;348.0919;11-Nov-2024
+103176;INF209K01LT4;-;Aditya Birla Sun Life Banking & PSU Debt Fund - Retail Plan-Growth;522.5328;11-Nov-2024
+119550;INF209K01YN0;-;Aditya Birla Sun Life Banking & PSU Debt Fund- Direct Plan-Growth;360.5005;11-Nov-2024 
+Axis Mutual Fund 
+128952;INF846K01NF8;-;Axis Banking & PSU Debt Fund - Direct Plan - Bonus Option;1532.8272;14-Jun-2017
+120437;-;INF846K01CU0;Axis Banking & PSU Debt Fund - Direct Plan - Daily IDCW;1039.1310;11-Nov-2024
+120438;INF846K01CR6;-;Axis Banking & PSU Debt Fund - Direct Plan - Growth Option;2573.2648;11-Nov-2024
+120439;INF846K01CT2;INF846K01CS4;Axis Banking & PSU Debt Fund - Direct Plan - Monthly IDCW;1036.2257;11-Nov-2024
+120436;INF846K01CV8;INF846K01CW6;Axis Banking & PSU Debt Fund - Direct Plan - Weekly IDCW;1038.2027;11-Nov-2024
+128953;INF846K01NG6;-;Axis Banking & PSU Debt Fund - Regular Plan - Bonus Option;1289.4075;18-May-2015
+117447;-;INF846K01CC8;Axis Banking & PSU Debt Fund - Regular Plan - Daily IDCW;1039.1303;11-Nov-2024
+117446;INF846K01CB0;-;Axis Banking & PSU Debt Fund - Regular Plan - Growth option;2499.8626;11-Nov-2024
+117449;INF846K01CF1;INF846K01CG9;Axis Banking & PSU Debt Fund - Regular Plan - Monthly IDCW;1036.0819;11-Nov-2024
+117448;INF846K01CD6;INF846K01CE4;Axis Banking & PSU Debt Fund - Regular Plan - Weekly IDCW;1038.2003;11-Nov-2024 
+Bajaj Finserv Mutual Fund 
+152164;INF0QA701649;INF0QA701631;Bajaj Finserv Banking and PSU Fund-  Direct Plan-Monthly- IDCW;10.8860;11-Nov-2024
+152163;INF0QA701615;INF0QA701623;Bajaj Finserv Banking and PSU Fund- Direct Plan- IDCW;10.8860;11-Nov-2024
+152165;INF0QA701557;-;Bajaj Finserv Banking and PSU Fund- Regular Plan- Growth;10.8263;11-Nov-2024
+152166;INF0QA701565;INF0QA701573;Bajaj Finserv Banking and PSU Fund- Regular Plan- IDCW;10.8263;11-Nov-2024
+152162;INF0QA701607;-;Bajaj Finserv Banking and PSU Fund-Direct Plan- Growth;10.8860;11-Nov-2024
+152167;INF0QA701599;INF0QA701581;Bajaj Finserv Banking and PSU Fund-Regular Plan-Monthly-IDCW;10.8263;11-Nov-2024 

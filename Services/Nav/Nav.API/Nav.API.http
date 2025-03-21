@@ -1,0 +1,6 @@
+@Nav.API_HostAddress = http://localhost:5118
+
+GET {{Nav.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
